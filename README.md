@@ -4,7 +4,7 @@
 
 # 참여자
 
-| 김호빈(팀장) | 김명기 | 김범섭 |김무건|
+| 김호빈(팀장) | 김영기 | 김범섭 |김무건|
 | ---- | ---- | ---- |----|
 |      |      |      ||
 | SAP | SAP | SAA |SAA|
@@ -30,6 +30,9 @@
 ## 매일
 
 1. [EXAMTOPICS](https://www.examtopics.com/) 사이트에서 덤프 10문제+ 풀기
+   1. Amazon AWS Certified Solutions Architect - Professional SAP-C02 Exam 문제번호
+   2. Amazon AWS Certified Solutions Architect - Associate SAA-C03 Exam 문제번호
+
 2. 푼 문제 (or 틀린 문제) 해설 달아서 깃 레포로 pr
    - 문제 캡처 후 답에 대한 설명
    - 파일 이름은 `20231216_examtopic_sap_1-10.md` (1번부터 10번 문제라는 뜻)
@@ -38,7 +41,7 @@
 
 ## 토요일
 
-장소 : ??
+장소 : 강남역 스터디룸 / 오후 2시~6시
 
 1. 덤프 문제 중 자신이 틀린 문제에 대한 발표 (왜 틀렸는지와 해설)
 2. 시간 재면서 exam 풀기
@@ -57,9 +60,9 @@
 
 ## 구매 필요 목록
 
-- Udemy 강의 (개인?)
-- Udemy Practice Test (개인?)
-- Examtopics 구독 -> 60$ (함께 사용)
+- ~~Udemy 강의 (개인?)~~
+- ~~Udemy Practice Test (개인?)~~
+- ~~Examtopics 구독 -> 60$ (함께 사용)~~
 
 ## 일정 관리
 
