@@ -66,3 +66,4 @@ https://aws.amazon.com/blogs/security/control-access-to-aws-resources-by-using-t
 ![image-010](./images/20231218_examtopic_sap_1-10/image-010.PNG)
 
 > 정답 B, 못 맞춤, SQS FIFO 대기열은 메시지 순서를 보장하므로 B여야 합니다.
+>>>>>>> 6c78ac855248df699603b2bdaf1c249f54f59b95
