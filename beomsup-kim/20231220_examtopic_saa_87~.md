@@ -201,15 +201,17 @@ What should the solutions architect recommend?
 
 # 문제 96 - 틀림
 
-<details>
-<summary>정답 및 해설</summary>
-
+An Amazon EC2 administrator created the following policy associated with an IAM group containing several users:
+![image-001](https://img.examtopics.com/aws-certified-solutions-architect-associate-saa-c03/image1.png)
 What is the effect of this policy?
 
 - A. Users can terminate an EC2 instance in any AWS Region except us-east-1.
 - B. Users can terminate an EC2 instance with the IP address 10.100.100.1 in the us-east-1 Region.
 - C. Users can terminate an EC2 instance in the us-east-1 Region when the user's source IP is 10.100.100.254.
 - D. Users cannot terminate an EC2 instance in the us-east-1 Region when the user's source IP is 10.100.100.254.
+
+<details>
+<summary>정답 및 해설</summary>
 
 > 정답: C
 
