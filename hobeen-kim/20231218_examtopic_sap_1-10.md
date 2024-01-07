@@ -41,6 +41,12 @@
   - C : A 계정에서는 B 계정의 IAM 유저의 접근을 허용하는 S3 버킷 정책이 필요하다.
   - D : IAM user 가 필수 동작(getobject, listbucket) 을 수행하도록 하는 IAM Policy 를 생성한다. 이 정책은 S3 버킷의 ARN 을 언급하고 있어야 한다.
 
+# 8번
+
+![image-20240107141151476](images/20231218_examtopic_sap_1-10/image-20240107141151476.png)
+
+
+
 # 10번
 
 ![image-20231218221806579](images/20231218_examtopic_sap_1-10/image-20231218221806579.png)
