@@ -1,19 +1,23 @@
+# 
+
 # 스터디 목표 / 주제
 
   2월 초 목표로 하는 AWS 시험 합격
 
-# 참여자
+# 1기
+
+## 참여자
 
 | 김호빈(팀장) | 김영기 | 김범섭 |김무건|
 | ---- | ---- | ---- |----|
 |      |      |      ||
 | SAP | SAP | SAA |SAA|
 
-# 일정 및 방법
+## 일정 및 방법
 
 12.17(일) ~ 2.9(금) 8주
 
-## 요약
+### 요약
 
 - 12.17(일) 20:00 - 온라인 회의
   - 스터디 방향, 모임 장소 등 결정 
@@ -27,7 +31,7 @@
   - 토요일에 푼 exam 오답노트
   - 기타 등등...
 
-## 매일
+### 매일
 
 1. [EXAMTOPICS](https://www.examtopics.com/) 사이트에서 덤프 10문제+ 풀기
    1. Amazon AWS Certified Solutions Architect - Professional SAP-C02 Exam 문제번호
@@ -39,7 +43,7 @@
    - 이미지 파일은 images/ 에 넣기
 3. UDEMY 강의 30분+ 듣기
 
-## 토요일
+### 토요일
 
 장소 : 강남역 스터디룸 / 오후 2시~6시
 
@@ -56,15 +60,81 @@
 | 24.01.27(토) | Udemy SAA Practice Test 6 | ?                         |
 | 24.02.03(토) | AWS SkillBuilder          | AWS SkillBuilder          |
 
-# 주의사항
+## 주의사항
 
-## 구매 필요 목록
+### 구매 필요 목록
 
 - ~~Udemy 강의 (개인?)~~
 - ~~Udemy Practice Test (개인?)~~
 - ~~Examtopics 구독 -> 60$ (함께 사용)~~
 
-## 일정 관리
+### 일정 관리
 
 - 덤프 문제 pr 못할 것 같으면 단체대화방에 공유
+- 오프라인 모임 참여 제한 시 D-2 전까지는 일정 공유
+
+# 2기
+
+## 참여자
+
+| 김호빈(팀장) | 김범섭 | 장현상   |
+| ------------ | ------ | -------- |
+| DOP          | SAA    | SAA      |
+| 3.27(수)     |        | 4.17(토) |
+
+## 일정 및 방법
+
+24.02.18(일) ~ 4.14(일) 8주
+
+### 요약
+
+- 12.18(일) 13:00 - 온라인 회의
+  - 스터디 방향, 모임 장소 등 결정 
+- **매일(일요일 제외, 개별 진행)**
+  - 덤프 10문제씩 풀고 해설 달아서 해당 깃 레포로 pr
+  - udemy 강의보기
+- **일요일(약 5H, 강남 오프라인, 필수)**
+  - whitepaper 읽기
+  - 시간 재면서 exam 풀기(udemy or aws skillbuilder or examtopics).
+
+### 매일
+
+1. [EXAMTOPICS](https://www.examtopics.com/) 사이트에서 덤프 10문제+ 풀기
+   1. Amazon AWS Certified DevOps Engineer - Professional DOP-C02 Exam 문제번호
+   2. Amazon AWS Certified Solutions Architect - Associate SAA-C03 Exam 문제번호
+
+2. 푼 문제 (or 틀린 문제) 해설 달아서 깃 레포로 pr
+   - 문제 캡처 후 답에 대한 설명
+   - 파일 이름은 `20231216_examtopic_sap_1-10.md` (1번부터 10번 문제라는 뜻)
+   - 이미지 파일은 images/ 에 넣기
+3. UDEMY 강의 30분+ 듣기
+
+### 일요일
+
+장소 : 강남역 스터디룸 / 오후 2시~6시
+
+1. whitepaper 읽기
+2. 시간 재면서 exam 풀기
+
+| 일자         | SAA                       | DOP                      |
+| ------------ | ------------------------- | ------------------------- |
+| 24.02.25(일) | Udemy SAA Practice Test 1 | - |
+| 24.03.03(일) | Udemy SAA Practice Test 2 | - |
+| 24.03.10(일) | Udemy SAA Practice Test 3 | -                         |
+| 24.03.17(일) | Udemy SAA Practice Test 4 | -                         |
+| 24.03.24(일) | Udemy SAA Practice Test 5 | -                         |
+| 24.03.31(일) | Udemy SAA Practice Test 6 | -                         |
+| 24.04.07(일) | AWS SkillBuilder          | AWS SkillBuilder          |
+| 24.04.14(일) | 틀린 문제 복습          | 틀린 문제 복습          |
+
+
+## 주의사항
+
+### 구매 필요 목록
+
+- Udemy 강의 (개인)
+- Udemy Practice Test (개인)
+
+### 일정 관리
+
 - 오프라인 모임 참여 제한 시 D-2 전까지는 일정 공유
